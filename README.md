@@ -31,7 +31,10 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ## Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hectorrami&count_private=true&show_icons=true&include_all_commits=true"> 
+</p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hectorrami&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorrami&hide=TeX&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorrami&hide=TeX&layout=compact" />
+</p>
