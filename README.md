@@ -1,6 +1,8 @@
-### Hi, Welcome to my Github :fire:
+## Hello, World :wave:
 
-My name is Hector. I'm a full-time software engineer.
+<div align="center">
+<h3> Hector Ramirez | Software Developer |</h3>
+</div>
 
 ## Technologies
 
@@ -27,6 +29,8 @@ My name is Hector. I'm a full-time software engineer.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hectorrami&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorrami&hide=TeX&layout=compact)
