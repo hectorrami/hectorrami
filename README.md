@@ -1,7 +1,7 @@
 ## Hello, World :wave:
 
 <div align="center">
-<h3> Hector Ramirez | Software Developer |</h3>
+<h3> Hector Ramirez | Software Developer</h3>
 </div>
 
 ## Technologies
