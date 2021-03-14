@@ -30,9 +30,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hectorrami&count_private=true&show_icons=true&include_all_commits=true"> 
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hectorrami&" alt="hectorrami" /></p>
 
 ## Favorite IDE
 [Microsoft Word](https://youtu.be/X34ZmkeZDos)
