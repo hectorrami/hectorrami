@@ -4,6 +4,8 @@
 <h3> Hector Ramirez | Software Developer | <a href="https://hectorrami.github.io/NextJs-blog/">Blog</a></h3>
 </div>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=hectorrami&label=Profile%20views&color=green&style=flat" alt="hectorrami" /> </p>
+
 ## Technologies
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
