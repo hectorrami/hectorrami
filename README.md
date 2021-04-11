@@ -31,6 +31,3 @@
 
 ## Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hectorrami&" alt="hectorrami" /></p>
-
-## Favorite IDE
-[Microsoft Word](https://youtu.be/X34ZmkeZDos)
