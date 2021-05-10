@@ -28,6 +28,3 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-## Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hectorrami&" alt="hectorrami" /></p>
