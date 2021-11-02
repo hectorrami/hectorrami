@@ -4,7 +4,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/93a8b5a872e54c6c889b1ee08be9e917.png?r=ce8"
+      src="https://api.daily.dev/devcards/93a8b5a872e54c6c889b1ee08be9e917.png?r=rxp"
     />
   </a>
 </div>
